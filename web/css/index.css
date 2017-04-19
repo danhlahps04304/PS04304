@@ -1,0 +1,44 @@
+/*
+Le An Hoang Danh 
+PS 04304
+PT 11302
+*/
+/* 
+    Created on : Feb 27, 2017, 2:46:15 PM
+    Author     : L.A.H.D
+*/
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+body{
+    background: url("../images/background.jpg") no-repeat;
+}
+.account{
+    margin-left: 80px;
+}
+.btn{
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,1), 0 6px 20px 0 rgba(0,0,0,1);
+    opacity: 0.75;
+    margin-top: 25px;
+    float: left;
+    margin-left: 33px;
+    width: 200px;
+    height: 50px;
+}
+.welcomeUser{
+    margin-top: 100px;
+    float: start;
+    width: 200px;
+    height: 200px;
+    background-image: url("../images/userIcon.png");
+}
+span{
+    font: 100%/1 'Lobster', cursive;
+    font-size: 45px;
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
